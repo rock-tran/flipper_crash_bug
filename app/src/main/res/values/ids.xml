@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="actionbar" type="id" />
+    <item name="content_layout" type="id" />
+    <item name="btn_ok" type="id" />
+    <item name="btn_cancel" type="id" />
+</resources>

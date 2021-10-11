@@ -1,0 +1,2 @@
+The demo build of Street Chat Map.
+If the zoom is not too much, always displaying 4 points on the map ( example of showing randomly location where users located ).

@@ -1,0 +1,2 @@
+Testable build :
+- New feature : Remove location
